@@ -2,7 +2,7 @@
   "name": "add",
   "version": "0.0.1",
   "description": "add numbers",
-  "main": "dist/add.js",
+  "main": "dist/bundle.js",
   "scripts": {
     "webpack": "webpack",
     "build": "tsc",
